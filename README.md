@@ -1,5 +1,8 @@
 # NatziTranslator
 Text Based encrypting and decrypting Software to help people's privacy. 
+
+- Data privacy, also called information privacy, is the aspect of information technology (IT) that deals with the ability an organization or individual has to determine what data in a computer system can be shared with third parties.
+
 Can use digital forensics purposes
 
 ![capture](https://user-images.githubusercontent.com/13791181/46546153-e6337c80-c8e5-11e8-9a62-c46f36a0d4bf.PNG)
