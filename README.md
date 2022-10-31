@@ -12,3 +12,4 @@ Can use digital forensics purposes
 - The conversion of encrypted data into its original form is called Decryption.
 - Did Alan Turing break the Enigma code?
 His bombes turned Bletchley Park into a codebreaking factory. As early as 1943 Turing's machines were cracking a staggering total of 84,000 Enigma messages each month - two messages every minute. Turing personally broke the form of Enigma that was used by the U-boats preying on the North Atlantic merchant convoys.
+Translation is necessary for the spreading new information, knowledge, and ideas across the world. It is absolutely necessary to achieve effective communication between different cultures. In the process of spreading new information, translation is something that can change history. therefore technology helps in these activities. throughout this process it can be done 
